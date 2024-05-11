@@ -1,9 +1,9 @@
 # gigi-07.github.io
-#Gigi Gill’s Portfolio
+# Gigi Gill’s Portfolio
 
 I attend CSUF as a Computer Science major with a focus in Cybersecurity. I plan to graduate in 2026.
 
-##Favorite CPSC 120 Labs
+## Favorite CPSC 120 Labs
 
 
 Lab 6 Part 1 I liked Lab 6 Part 1 because it was very challenging. I really enjoyed it despite the challenge and found it fun to make. I also enjoyed messing with it after we had made it.
